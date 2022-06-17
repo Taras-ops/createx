@@ -691,10 +691,6 @@ a {
   display: none;
 }
 
-.header-menu__link:link {
-  color: #FF5A30;
-}
-
 .header-menu__link::before {
   content: "";
   position: absolute;
